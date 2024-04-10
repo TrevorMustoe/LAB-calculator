@@ -13,7 +13,7 @@ We are focusing this lesson on creating the HTML and CSS for the caclulator. Our
 
 ### 3. Colors used in this design include:
 
-- black: <span style="background:black;color:white;display:inline-block;padding:1px 5px;">#000000</span>
+- black: <span style="background:black;color:white;display:inline-block;padding:1px 5px;">#000000</span>qwaS
 - white: <span style="background:white;display:inline-block;padding:1px 5px;">#ffffff</span>
 - light grey: <span style="background:#d8d9db;display:inline-block;padding:1px 5px;">#d8d9db</span>
 - buttons on hover: <span style="background:#ebebeb;display:inline-block;padding:1px 5px;">#ebebeb</span>
