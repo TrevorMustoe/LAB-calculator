@@ -1,7 +1,9 @@
-table{
-  border: black 4px solid;
-}
-
-th{
-  border: black 2px solid;
+#main-calc{
+ width: 400px;
+ border: red solid 2px;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: space-between;
+ margin: none;
+ padding: 105px
 }
